@@ -1,0 +1,1 @@
+# manga-to-cbz-packager
